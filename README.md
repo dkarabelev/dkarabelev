@@ -1,6 +1,6 @@
  👋 Hi, I’m Dimitar Karabelev
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning engineering in Technical university of Sofia and Python in SoftUni
+- 🌱 I’m currently studying engineering in Technical university of Sofia and Python in SoftUni
 
 <!---
 dkarabelev/dkarabelev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
